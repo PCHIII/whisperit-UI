@@ -1,0 +1,74 @@
+.topic-col {
+    min-width: 16em;
+  }
+
+  /* .created-col,
+  .last-post-col {
+    min-width: 11em;
+  } */
+
+.navbar-brand {
+font-size: 50px;
+color: orangered;
+font-weight: bold;
+
+}
+.navbar {
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+
+  /* the rest of your styling */
+}
+
+h3 {
+  font-weight: bold;
+}
+
+span {
+
+  font-weight: bold
+}
+.author-col {
+    min-width: 12em ;
+  }
+  
+  .post-col {
+    min-width: 20em;
+  
+  }
+
+  .details-col {
+    min-width: 7em;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+.important {
+color: red;
+}
+
+ .spy  {
+  color:black;
+  
+} 
+
+footer {
+  padding-left: 10px;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+.h6 {
+  color:teal;
+}
+
+/* label {
+  font-weight: bold
+
+} */
